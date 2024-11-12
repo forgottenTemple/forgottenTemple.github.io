@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   height="768.0"
+   viewBox="0,0 65416,45575"
+   width="1024.0"
+   version="1.1"
+   id="svg704"
+   sodipodi:docname="26 ALARM CIRCUIT.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata708"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1377"
+   id="namedview706"
+   showgrid="false"
+   inkscape:zoom="1.5688932"
+   inkscape:cx="531.15308"
+   inkscape:cy="384.70196"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg704" />   
+<defs
+   id="defs4">
+<style
+   type="text/css"
+   id="style2">
+<![CDATA[
+.A{stroke-width:59px;}
+.A,.B{stroke:#808080;}
+.A1,.Z,.Y{stroke-width:16.0px;}
+.C,.E,.S,.T,.X,.U,.W,.R,.V,.F,.D,.J,.M,.B,.O,.P,.A1,.Q,.Z,.Y{stroke-linecap:square;}
+.C,.E,.T,.W,.R,.F,.D,.J,.M,.B{stroke-width:16px;}
+.D,.B,.Y{fill:#CCC;}
+.G,.I,.L,.A,.C,.E,.S,.T,.X,.U,.W,.R,.V,.F,.D,.J,.M,.B,.O,.P,.A1,.Q,.Z,.Y{stroke-dasharray:none;}
+.H,.G,.C,.E,.S,.T,.U,.W,.R,.F,.D,.O,.P,.A1,.Q,.Z,.Y{stroke:#000;}
+.H,.K,.N{stroke-dasharray:117,58;}
+.H,.K,.N,.G,.I,.L{stroke-width:84px;}
+.H,.K,.N,.G,.I,.L,.A{stroke-linecap:butt;}
+.H,.K,.N,.G,.I,.L,.A,.C,.E{fill-opacity:0.0;fill:none;}
+.H,.K,.N,.G,.I,.L,.A,.C,.E,.F,.D,.J,.M,.B,.Z,.Y{font-family:sans-serif;}
+.H,.K,.N,.G,.I,.L,.A,.C,.E,.O,.P,.A1,.Q,.Z,.Y{stroke-opacity:1.0;}
+.H,.K,.N,.G,.I,.L,.A,.C,.E,.S,.T,.X,.U,.W,.R,.V,.F,.D,.J,.M,.B,.O,.P,.A1,.Q,.Z,.Y{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.J{fill:#03F;}
+.K,.I,.J{stroke:#03F;}
+.M{fill:#0C0;}
+.N,.L,.M{stroke:#0C0;}
+.O{font-size:660px;}
+.P{font-size:770px;}
+.S,.T,.A1{font-size:468px;}
+.S,.T,.X,.O,.P,.A1{font-family:Arial;}
+.S,.T,.X,.U,.W,.R,.V,.F,.D,.J,.M,.B{stroke-opacity:0.0;}
+.S,.T,.X,.U,.W,.R,.V,.F,.D,.J,.M,.B,.O,.P,.A1,.Q,.Z,.Y{fill-opacity:1.0;}
+.S,.U,.F,.O,.P,.A1,.Q,.Z{fill:#000;}
+.S,.X,.U,.V,.O,.P,.Q{stroke-width:0.5px;}
+.T,.W,.R{fill:#FFF;}
+.U,.R,.Q{font-size:392px;}
+.U,.W,.R,.V,.Q{font-family:Tahoma;}
+.W,.V{font-size:314px;}
+.X{font-size:312px;}
+.X,.V{stroke:#999;fill:#999;}
+]]>
+</style>
+</defs>
+<g
+   id="g702">
+<g
+   id="g10"><path
+   class="B"
+   d="M43434,35079v-337v-675v-337h-337h-337v337v675v337 z"
+   id="path6" />
+<path
+   class="C"
+   d="M43434,34065v-337h-675v337m0,675v337h675v-337"
+   id="path8" />
+</g>
+<g
+   id="g16"><path
+   class="D"
+   d="M43434,35079v-337v-675v-337h337h337v337v675v337 z"
+   id="path12" />
+<path
+   class="C"
+   d="M43434,34065v-337h675v337m0,675v337h-675v-337"
+   id="path14" />
+</g>
+<g
+   id="g26"><circle
+   class="Y"
+   cx="63543"
+   cy="34403"
+   r="168"
+   id="circle18" />
+<circle
+   class="Y"
+   cx="63543"
+   cy="34403"
+   r="101"
+   id="circle20" />
+<rect
+   class="Y"
+   x="59994"
+   y="34336"
+   width="3379"
+   height="135"
+   id="rect22" />
+<rect
+   class="Y"
+   x="59656"
+   y="34336"
+   width="337"
+   height="135"
+   id="rect24" />
+</g>
+<g
+   id="g32"><path
+   class="D"
+   d="M19777,28996v-337v-10814v-337h-337h-337v337v10814v337 z"
+   id="path28" />
+<path
+   class="C"
+   d="M19777,28658v337h-675v-337m675,-2027v-2027m-675,2027v-2027m675,-3379v-1351m-675,1351v-1351m0,-2027v-337h675v337m-337,337h675m-1013,1013v-675m675,675v-675m-337,1013h675m-675,2027h675m-1013,1013v-675m675,675v-675m-337,1013h675m-1013,1013v-675m675,675v-675m-337,1013h675m-675,2703h675m-1013,1013v-675m675,675v-675m-337,1013h675"
+   id="path30" />
+</g>
+<g
+   id="g38"><path
+   class="D"
+   d="M20453,28996v-337v-10814v-337h-337h-337v337v10814v337 z"
+   id="path34" />
+<path
+   class="C"
+   d="M20453,28658v337h-675v-337m675,-2027v-2027m-675,2027v-2027m675,-3379v-1351m-675,1351v-1351m0,-2027v-337h675v337m-1013,337h675m-337,1013v-675m675,675v-675m-1013,1013h675m-675,2027h675m-337,1013v-675m675,675v-675m-1013,1013h675m-337,1013v-675m675,675v-675m-1013,1013h675m-675,2703h675m-337,1013v-675m675,675v-675m-1013,1013h675"
+   id="path36" />
+</g>
+<g
+   id="g44"><path
+   class="D"
+   d="M58305,24940v-337v-3379v-337h-337h-337v337v3379v337 z"
+   id="path40" />
+<path
+   class="C"
+   d="M58305,23250v675m-675,-675v675m675,-2027v675m-675,-675v675m675,-1351v-337h-675v337m0,3379v337h675v-337"
+   id="path42" />
+</g>
+<g
+   id="g48"><circle
+   class="Z"
+   cx="33971"
+   cy="34403"
+   r="270"
+   id="circle46" />
+</g>
+<g
+   id="g54"><path
+   class="D"
+   d="M6934,14801v-337v-3379v-337h337h337v337v3379v337 z"
+   id="path50" />
+<path
+   class="C"
+   d="M6934,11084v-337h675v337m0,675v1351m-675,-1351v1351m675,675v1013h-675v-1013"
+   id="path52" />
+</g>
+<g
+   id="g58"><circle
+   class="Z"
+   cx="33971"
+   cy="28320"
+   r="270"
+   id="circle56" />
+</g>
+<g
+   id="g62"><path
+   class="C"
+   d="M8962,27306v675m0,-4731v675m0,-2027v675m0,-4055v675m0,675v1351m0,3379v2027m0,-8787v-337h-5407v11490h5407v-337"
+   id="path60" />
+</g>
+<g
+   id="g68"><rect
+   class="E"
+   x="4907"
+   y="11219"
+   width="1351"
+   height="405"
+   id="rect64" />
+<path
+   class="C"
+   d="M4231,11422h675m2027,0h-675"
+   id="path66" />
+</g>
+<g
+   id="g74"><rect
+   class="E"
+   x="4912"
+   y="13257"
+   width="1351"
+   height="405"
+   id="rect70" />
+<path
+   class="C"
+   d="M4912,13460h-675m2027,0h675"
+   id="path72" />
+</g>
+<g
+   id="g78"><path
+   class="C"
+   d="M58305,23250v675m0,-2027v675m0,2027v337h5407v-4055h-5407v337"
+   id="path76" />
+</g>
+<g
+   id="g82"><path
+   class="C"
+   d="M6934,13788v1013h-2703v-4055h2703v337m0,2027v-1351"
+   id="path80" />
+</g>
+<g
+   id="g90"><path
+   class="G"
+   d="M42758,34403h-8787"
+   id="path84" />
+<circle
+   class="F"
+   cx="33971"
+   cy="34403"
+   r="42"
+   id="circle86" />
+<path
+   class="H"
+   d="M42758,34403h-8787"
+   id="path88" />
+</g>
+<g
+   id="g96"><path
+   class="G"
+   d="M59656,34403h-15546"
+   id="path92" />
+<path
+   class="H"
+   d="M59656,34403h-15546"
+   id="path94" />
+</g>
+<g
+   id="g120"><path
+   class="I"
+   d="M7610,13450h12842"
+   id="path98" />
+<circle
+   class="J"
+   cx="20453"
+   cy="13450"
+   r="42"
+   id="circle100" />
+<path
+   class="K"
+   d="M7610,13450h12842"
+   id="path102" />
+<path
+   class="I"
+   d="M46138,13450v4731"
+   id="path104" />
+<circle
+   class="J"
+   cx="46138"
+   cy="13450"
+   r="42"
+   id="circle106" />
+<circle
+   class="J"
+   cx="46138"
+   cy="18181"
+   r="42"
+   id="circle108" />
+<path
+   class="K"
+   d="M46138,13450v4731"
+   id="path110" />
+<path
+   class="I"
+   d="M20453,13450h25685"
+   id="path112" />
+<circle
+   class="J"
+   cx="20453"
+   cy="13450"
+   r="42"
+   id="circle114" />
+<circle
+   class="J"
+   cx="46138"
+   cy="13450"
+   r="42"
+   id="circle116" />
+<path
+   class="K"
+   d="M20453,13450h25685"
+   id="path118" />
+</g>
+<g
+   id="g136"><path
+   class="G"
+   d="M48166,19533h-14194"
+   id="path122" />
+<circle
+   class="F"
+   cx="48166"
+   cy="19533"
+   r="42"
+   id="circle124" />
+<circle
+   class="F"
+   cx="33971"
+   cy="19533"
+   r="42"
+   id="circle126" />
+<path
+   class="H"
+   d="M48166,19533h-14194"
+   id="path128" />
+<path
+   class="G"
+   d="M33971,19533h-13518"
+   id="path130" />
+<circle
+   class="F"
+   cx="33971"
+   cy="19533"
+   r="42"
+   id="circle132" />
+<path
+   class="H"
+   d="M33971,19533h-13518"
+   id="path134" />
+</g>
+<g
+   id="g160"><path
+   class="L"
+   d="M7610,11422h10814"
+   id="path138" />
+<circle
+   class="M"
+   cx="18425"
+   cy="11422"
+   r="42"
+   id="circle140" />
+<path
+   class="N"
+   d="M7610,11422h10814"
+   id="path142" />
+<path
+   class="L"
+   d="M48166,11422v8111"
+   id="path144" />
+<circle
+   class="M"
+   cx="48166"
+   cy="11422"
+   r="42"
+   id="circle146" />
+<circle
+   class="M"
+   cx="48166"
+   cy="19533"
+   r="42"
+   id="circle148" />
+<path
+   class="N"
+   d="M48166,11422v8111"
+   id="path150" />
+<path
+   class="L"
+   d="M18425,11422h29740"
+   id="path152" />
+<circle
+   class="M"
+   cx="18425"
+   cy="11422"
+   r="42"
+   id="circle154" />
+<circle
+   class="M"
+   cx="48166"
+   cy="11422"
+   r="42"
+   id="circle156" />
+<path
+   class="N"
+   d="M18425,11422h29740"
+   id="path158" />
+</g>
+<g
+   id="g166"><path
+   class="G"
+   d="M8962,24264h10138"
+   id="path162" />
+<path
+   class="H"
+   d="M8962,24264h10138"
+   id="path164" />
+</g>
+<g
+   id="g172"><path
+   class="G"
+   d="M8962,22913h10138"
+   id="path168" />
+<path
+   class="H"
+   d="M8962,22913h10138"
+   id="path170" />
+</g>
+<g
+   id="g178"><path
+   class="G"
+   d="M8962,21561h10138"
+   id="path174" />
+<path
+   class="H"
+   d="M8962,21561h10138"
+   id="path176" />
+</g>
+<g
+   id="g184"><path
+   class="G"
+   d="M8962,19533h10138"
+   id="path180" />
+<path
+   class="H"
+   d="M8962,19533h10138"
+   id="path182" />
+</g>
+<g
+   id="g190"><path
+   class="G"
+   d="M8962,18181h10138"
+   id="path186" />
+<path
+   class="H"
+   d="M8962,18181h10138"
+   id="path188" />
+</g>
+<g
+   id="g196"><path
+   class="G"
+   d="M8962,28320h10138"
+   id="path192" />
+<path
+   class="H"
+   d="M8962,28320h10138"
+   id="path194" />
+</g>
+<g
+   id="g202"><path
+   class="G"
+   d="M8962,26968h10138"
+   id="path198" />
+<path
+   class="H"
+   d="M8962,26968h10138"
+   id="path200" />
+</g>
+<g
+   id="g224"><path
+   class="G"
+   d="M20453,24264h13518"
+   id="path204" />
+<circle
+   class="F"
+   cx="33971"
+   cy="24264"
+   r="42"
+   id="circle206" />
+<path
+   class="H"
+   d="M20453,24264h13518"
+   id="path208" />
+<path
+   class="G"
+   d="M57629,24264h-15546"
+   id="path210" />
+<circle
+   class="F"
+   cx="42082"
+   cy="24264"
+   r="42"
+   id="circle212" />
+<path
+   class="H"
+   d="M57629,24264h-15546"
+   id="path214" />
+<path
+   class="G"
+   d="M42082,24264h-8111"
+   id="path216" />
+<circle
+   class="F"
+   cx="42082"
+   cy="24264"
+   r="42"
+   id="circle218" />
+<circle
+   class="F"
+   cx="33971"
+   cy="24264"
+   r="42"
+   id="circle220" />
+<path
+   class="H"
+   d="M42082,24264h-8111"
+   id="path222" />
+</g>
+<g
+   id="g246"><path
+   class="G"
+   d="M20453,22913h13518"
+   id="path226" />
+<circle
+   class="F"
+   cx="33971"
+   cy="22913"
+   r="42"
+   id="circle228" />
+<path
+   class="H"
+   d="M20453,22913h13518"
+   id="path230" />
+<path
+   class="G"
+   d="M57629,22913h-15546"
+   id="path232" />
+<circle
+   class="F"
+   cx="42082"
+   cy="22913"
+   r="42"
+   id="circle234" />
+<path
+   class="H"
+   d="M57629,22913h-15546"
+   id="path236" />
+<path
+   class="G"
+   d="M42082,22913h-8111"
+   id="path238" />
+<circle
+   class="F"
+   cx="42082"
+   cy="22913"
+   r="42"
+   id="circle240" />
+<circle
+   class="F"
+   cx="33971"
+   cy="22913"
+   r="42"
+   id="circle242" />
+<path
+   class="H"
+   d="M42082,22913h-8111"
+   id="path244" />
+</g>
+<g
+   id="g268"><path
+   class="G"
+   d="M20453,21561h13518"
+   id="path248" />
+<circle
+   class="F"
+   cx="33971"
+   cy="21561"
+   r="42"
+   id="circle250" />
+<path
+   class="H"
+   d="M20453,21561h13518"
+   id="path252" />
+<path
+   class="G"
+   d="M57629,21561h-16222"
+   id="path254" />
+<circle
+   class="F"
+   cx="41407"
+   cy="21561"
+   r="42"
+   id="circle256" />
+<path
+   class="H"
+   d="M57629,21561h-16222"
+   id="path258" />
+<path
+   class="G"
+   d="M41407,21561h-7435"
+   id="path260" />
+<circle
+   class="F"
+   cx="41407"
+   cy="21561"
+   r="42"
+   id="circle262" />
+<circle
+   class="F"
+   cx="33971"
+   cy="21561"
+   r="42"
+   id="circle264" />
+<path
+   class="H"
+   d="M41407,21561h-7435"
+   id="path266" />
+</g>
+<g
+   id="g276"><path
+   class="G"
+   d="M33971,28320h-13518"
+   id="path270" />
+<circle
+   class="F"
+   cx="33971"
+   cy="28320"
+   r="42"
+   id="circle272" />
+<path
+   class="H"
+   d="M33971,28320h-13518"
+   id="path274" />
+</g>
+<g
+   id="g292"><path
+   class="G"
+   d="M20453,26968h13518"
+   id="path278" />
+<circle
+   class="F"
+   cx="33971"
+   cy="26968"
+   r="42"
+   id="circle280" />
+<path
+   class="H"
+   d="M20453,26968h13518"
+   id="path282" />
+<path
+   class="G"
+   d="M33971,28320v-1351"
+   id="path284" />
+<circle
+   class="F"
+   cx="33971"
+   cy="28320"
+   r="42"
+   id="circle286" />
+<circle
+   class="F"
+   cx="33971"
+   cy="26968"
+   r="42"
+   id="circle288" />
+<path
+   class="H"
+   d="M33971,28320v-1351"
+   id="path290" />
+</g>
+<g
+   id="g302"><path
+   class="G"
+   d="M33971,34403v-6083"
+   id="path294" />
+<circle
+   class="F"
+   cx="33971"
+   cy="34403"
+   r="42"
+   id="circle296" />
+<circle
+   class="F"
+   cx="33971"
+   cy="28320"
+   r="42"
+   id="circle298" />
+<path
+   class="H"
+   d="M33971,34403v-6083"
+   id="path300" />
+</g>
+<g
+   id="g310"><path
+   class="G"
+   d="M46138,18181h-25685"
+   id="path304" />
+<circle
+   class="F"
+   cx="46138"
+   cy="18181"
+   r="42"
+   id="circle306" />
+<path
+   class="H"
+   d="M46138,18181h-25685"
+   id="path308" />
+</g>
+
+<g
+   id="g316"><text
+   class="Q"
+   x="41351"
+   y="33587"
+   id="text314">GROUND SUBHARNESS</text>
+
+</g>
+<g
+   id="g322"><rect
+   class="R"
+   x="40969"
+   y="34098"
+   width="1380"
+   height="526"
+   id="rect318" />
+<text
+   class="S"
+   x="41042"
+   y="34609"
+   id="text320">H10-1</text>
+
+</g>
+<g
+   id="g328"><rect
+   class="T"
+   x="44519"
+   y="34098"
+   width="1802"
+   height="526"
+   id="rect324" />
+<text
+   class="S"
+   x="44592"
+   y="34609"
+   id="text326">H10M-1</text>
+
+</g>
+<g
+   id="g332"><text
+   class="U"
+   x="57779"
+   y="34094"
+   id="text330">BATTERY NEGATIVE TERMINAL</text>
+
+</g>
+<g
+   id="g338"><rect
+   class="R"
+   x="57811"
+   y="34098"
+   width="1436"
+   height="526"
+   id="rect334" />
+<text
+   class="S"
+   x="57884"
+   y="34609"
+   id="text336">M96-1</text>
+
+</g>
+<g
+   id="g344"><rect
+   class="T"
+   x="16834"
+   y="23959"
+   width="1859"
+   height="526"
+   id="rect340" />
+<text
+   class="S"
+   x="16907"
+   y="24471"
+   id="text342">M36M-8</text>
+
+</g>
+<g
+   id="g350"><rect
+   class="T"
+   x="16834"
+   y="22607"
+   width="1859"
+   height="526"
+   id="rect346" />
+<text
+   class="S"
+   x="16907"
+   y="23119"
+   id="text348">M36M-6</text>
+
+</g>
+<g
+   id="g356"><rect
+   class="T"
+   x="16834"
+   y="21255"
+   width="1859"
+   height="526"
+   id="rect352" />
+<text
+   class="S"
+   x="16907"
+   y="21767"
+   id="text354">M36M-5</text>
+
+</g>
+<g
+   id="g362"><rect
+   class="T"
+   x="16834"
+   y="19227"
+   width="1859"
+   height="526"
+   id="rect358" />
+<text
+   class="S"
+   x="16907"
+   y="19739"
+   id="text360">M36M-4</text>
+
+</g>
+<g
+   id="g368"><rect
+   class="T"
+   x="16834"
+   y="17875"
+   width="1859"
+   height="526"
+   id="rect364" />
+<text
+   class="S"
+   x="16907"
+   y="18387"
+   id="text366">M36M-3</text>
+
+</g>
+<g
+   id="g374"><rect
+   class="T"
+   x="16834"
+   y="28014"
+   width="1859"
+   height="526"
+   id="rect370" />
+<text
+   class="S"
+   x="16907"
+   y="28526"
+   id="text372">M36M-2</text>
+
+</g>
+<g
+   id="g380"><rect
+   class="T"
+   x="16834"
+   y="26662"
+   width="1859"
+   height="526"
+   id="rect376" />
+<text
+   class="S"
+   x="16907"
+   y="27174"
+   id="text378">M36M-1</text>
+
+</g>
+<g
+   id="g384"><text
+   class="U"
+   x="19013"
+   y="17384"
+   id="text382">ALARM</text>
+
+</g>
+<g
+   id="g390"><rect
+   class="R"
+   x="20861"
+   y="23959"
+   width="1436"
+   height="526"
+   id="rect386" />
+<text
+   class="S"
+   x="20934"
+   y="24471"
+   id="text388">M36-8</text>
+
+</g>
+<g
+   id="g396"><rect
+   class="T"
+   x="20861"
+   y="22607"
+   width="1436"
+   height="526"
+   id="rect392" />
+<text
+   class="S"
+   x="20934"
+   y="23119"
+   id="text394">M36-6</text>
+
+</g>
+<g
+   id="g402"><rect
+   class="T"
+   x="20861"
+   y="21255"
+   width="1436"
+   height="526"
+   id="rect398" />
+<text
+   class="S"
+   x="20934"
+   y="21767"
+   id="text400">M36-5</text>
+
+</g>
+<g
+   id="g408"><rect
+   class="T"
+   x="20861"
+   y="19227"
+   width="1436"
+   height="526"
+   id="rect404" />
+<text
+   class="S"
+   x="20934"
+   y="19739"
+   id="text406">M36-4</text>
+
+</g>
+<g
+   id="g414"><rect
+   class="T"
+   x="20861"
+   y="17875"
+   width="1436"
+   height="526"
+   id="rect410" />
+<text
+   class="S"
+   x="20934"
+   y="18387"
+   id="text412">M36-3</text>
+
+</g>
+<g
+   id="g420"><rect
+   class="T"
+   x="20861"
+   y="28014"
+   width="1436"
+   height="526"
+   id="rect416" />
+<text
+   class="S"
+   x="20934"
+   y="28526"
+   id="text418">M36-2</text>
+
+</g>
+<g
+   id="g426"><rect
+   class="T"
+   x="20861"
+   y="26662"
+   width="1436"
+   height="526"
+   id="rect422" />
+<text
+   class="S"
+   x="20934"
+   y="27174"
+   id="text424">M36-1</text>
+
+</g>
+<g
+   id="g432"><rect
+   class="T"
+   x="55784"
+   y="22607"
+   width="1436"
+   height="526"
+   id="rect428" />
+<text
+   class="S"
+   x="55857"
+   y="23119"
+   id="text430">M01-9</text>
+
+</g>
+<g
+   id="g438"><rect
+   class="T"
+   x="55502"
+   y="23959"
+   width="1718"
+   height="526"
+   id="rect434" />
+<text
+   class="S"
+   x="55575"
+   y="24471"
+   id="text436">M01-10</text>
+
+</g>
+<g
+   id="g444"><rect
+   class="T"
+   x="55502"
+   y="21255"
+   width="1718"
+   height="526"
+   id="rect440" />
+<text
+   class="S"
+   x="55575"
+   y="21767"
+   id="text442">M01-17</text>
+
+</g>
+<g
+   id="g450"><rect
+   class="T"
+   x="33464"
+   y="34667"
+   width="1155"
+   height="633"
+   id="rect446" />
+<text
+   class="S"
+   x="33608"
+   y="35168"
+   id="text448">PG1</text>
+
+</g>
+<g
+   id="g456"><rect
+   class="T"
+   x="8019"
+   y="13144"
+   width="1662"
+   height="526"
+   id="rect452" />
+<text
+   class="S"
+   x="8092"
+   y="13656"
+   id="text454">F19-2B</text>
+
+</g>
+<g
+   id="g462"><rect
+   class="T"
+   x="8019"
+   y="11116"
+   width="1662"
+   height="526"
+   id="rect458" />
+<text
+   class="S"
+   x="8092"
+   y="11628"
+   id="text460">F19-6B</text>
+
+</g>
+<g
+   id="g468"><rect
+   class="T"
+   x="34332"
+   y="28042"
+   width="1719"
+   height="633"
+   id="rect464" />
+<text
+   class="S"
+   x="34475"
+   y="28544"
+   id="text466">PG121</text>
+
+</g>
+<g
+   id="g472"><text
+   class="U"
+   x="3678"
+   y="17418"
+   id="text470">ALARM</text>
+
+</g>
+<g
+   id="g478"><rect
+   class="R"
+   x="8094"
+   y="22625"
+   width="920"
+   height="422"
+   id="rect474" />
+<text
+   class="V"
+   x="8246"
+   y="23002"
+   id="text476">LED -</text>
+
+</g>
+<g
+   id="g484"><rect
+   class="W"
+   x="7971"
+   y="21273"
+   width="1043"
+   height="422"
+   id="rect480" />
+<text
+   class="V"
+   x="8123"
+   y="21651"
+   id="text482">LED +</text>
+
+</g>
+<g
+   id="g490"><rect
+   class="W"
+   x="8013"
+   y="23977"
+   width="1001"
+   height="422"
+   id="rect486" />
+<text
+   class="V"
+   x="8165"
+   y="24354"
+   id="text488">IND R</text>
+
+</g>
+<g
+   id="g496"><rect
+   class="W"
+   x="7418"
+   y="19246"
+   width="1596"
+   height="422"
+   id="rect492" />
+<text
+   class="V"
+   x="7570"
+   y="19623"
+   id="text494">IGNITION</text>
+
+</g>
+<g
+   id="g502"><rect
+   class="W"
+   x="7023"
+   y="28033"
+   width="1992"
+   height="422"
+   id="rect498" />
+<text
+   class="V"
+   x="7174"
+   y="28410"
+   id="text500">GROUND #2</text>
+
+</g>
+<g
+   id="g508"><rect
+   class="W"
+   x="7023"
+   y="26681"
+   width="1992"
+   height="422"
+   id="rect504" />
+<text
+   class="V"
+   x="7174"
+   y="27058"
+   id="text506">GROUND #1</text>
+
+</g>
+<g
+   id="g514"><rect
+   class="W"
+   x="7519"
+   y="17894"
+   width="1496"
+   height="422"
+   id="rect510" />
+<text
+   class="V"
+   x="7670"
+   y="18271"
+   id="text512">BATTERY</text>
+
+</g>
+<g
+   id="g518"><text
+   class="X"
+   x="5396"
+   y="11568"
+   id="text516">7.5</text>
+
+</g>
+<g
+   id="g522"><text
+   class="X"
+   x="5352"
+   y="11180"
+   id="text520">F16</text>
+
+</g>
+<g
+   id="g526"><text
+   class="V"
+   x="4338"
+   y="11960"
+   id="text524">FUSE, IGNITION</text>
+
+</g>
+<g
+   id="g530"><text
+   class="X"
+   x="5307"
+   y="13566"
+   id="text528">15.0</text>
+
+</g>
+<g
+   id="g534"><text
+   class="X"
+   x="5332"
+   y="13206"
+   id="text532">F12</text>
+
+</g>
+<g
+   id="g540"><text
+   class="V"
+   x="5217"
+   y="14010"
+   id="text536">FUSE,</text>
+
+<text
+   class="V"
+   x="4541"
+   y="14432"
+   id="text538">INSTRUMENTS</text>
+
+</g>
+<g
+   id="g544"><text
+   class="U"
+   x="60916"
+   y="20730"
+   id="text542">INSTRUMENTS</text>
+
+</g>
+<g
+   id="g550"><rect
+   class="R"
+   x="58357"
+   y="22625"
+   width="1271"
+   height="422"
+   id="rect546" />
+<text
+   class="V"
+   x="58403"
+   y="23002"
+   id="text548">ALARM-</text>
+
+</g>
+<g
+   id="g556"><rect
+   class="W"
+   x="58357"
+   y="23977"
+   width="2167"
+   height="422"
+   id="rect552" />
+<text
+   class="V"
+   x="58403"
+   y="24354"
+   id="text554">ALARM-WAKE</text>
+
+</g>
+<g
+   id="g562"><rect
+   class="W"
+   x="58357"
+   y="21273"
+   width="1394"
+   height="422"
+   id="rect558" />
+<text
+   class="V"
+   x="58403"
+   y="21651"
+   id="text560">ALARM+</text>
+
+</g>
+<g
+   id="g566"><text
+   class="U"
+   x="4354"
+   y="10658"
+   id="text564">FUSE BOX 1</text>
+
+</g>
+<g
+   id="g572"><rect
+   class="R"
+   x="39041"
+   y="34140"
+   width="337"
+   height="526"
+   id="rect568" />
+<text
+   class="S"
+   x="39114"
+   y="34652"
+   id="text570">B</text>
+
+</g>
+<g
+   id="g578"><rect
+   class="T"
+   x="49518"
+   y="34140"
+   width="337"
+   height="526"
+   id="rect574" />
+<text
+   class="S"
+   x="49591"
+   y="34652"
+   id="text576">B</text>
+
+</g>
+<g
+   id="g584"><rect
+   class="T"
+   x="27874"
+   y="13186"
+   width="365"
+   height="526"
+   id="rect580" />
+<text
+   class="S"
+   x="27947"
+   y="13698"
+   id="text582">U</text>
+
+</g>
+<g
+   id="g590"><rect
+   class="T"
+   x="27888"
+   y="19270"
+   width="337"
+   height="526"
+   id="rect586" />
+<text
+   class="S"
+   x="27961"
+   y="19781"
+   id="text588">B</text>
+
+</g>
+<g
+   id="g596"><rect
+   class="T"
+   x="27860"
+   y="11158"
+   width="394"
+   height="526"
+   id="rect592" />
+<text
+   class="S"
+   x="27933"
+   y="11670"
+   id="text594">G</text>
+
+</g>
+<g
+   id="g602"><rect
+   class="T"
+   x="11111"
+   y="23933"
+   width="337"
+   height="526"
+   id="rect598" />
+<text
+   class="S"
+   x="11184"
+   y="24445"
+   id="text600">B</text>
+
+</g>
+<g
+   id="g608"><rect
+   class="T"
+   x="11111"
+   y="22582"
+   width="337"
+   height="526"
+   id="rect604" />
+<text
+   class="S"
+   x="11184"
+   y="23093"
+   id="text606">B</text>
+
+</g>
+<g
+   id="g614"><rect
+   class="T"
+   x="11111"
+   y="21230"
+   width="337"
+   height="526"
+   id="rect610" />
+<text
+   class="S"
+   x="11184"
+   y="21742"
+   id="text612">B</text>
+
+</g>
+<g
+   id="g620"><rect
+   class="T"
+   x="11111"
+   y="19202"
+   width="337"
+   height="526"
+   id="rect616" />
+<text
+   class="S"
+   x="11184"
+   y="19714"
+   id="text618">B</text>
+
+</g>
+<g
+   id="g626"><rect
+   class="T"
+   x="11125"
+   y="17783"
+   width="337"
+   height="526"
+   id="rect622" />
+<text
+   class="S"
+   x="11198"
+   y="18294"
+   id="text624">B</text>
+
+</g>
+<g
+   id="g632"><rect
+   class="T"
+   x="11125"
+   y="27989"
+   width="337"
+   height="526"
+   id="rect628" />
+<text
+   class="S"
+   x="11198"
+   y="28501"
+   id="text630">B</text>
+
+</g>
+<g
+   id="g638"><rect
+   class="T"
+   x="11125"
+   y="26637"
+   width="337"
+   height="526"
+   id="rect634" />
+<text
+   class="S"
+   x="11198"
+   y="27149"
+   id="text636">B</text>
+
+</g>
+<g
+   id="g644"><rect
+   class="T"
+   x="27888"
+   y="24001"
+   width="337"
+   height="526"
+   id="rect640" />
+<text
+   class="S"
+   x="27961"
+   y="24513"
+   id="text642">B</text>
+
+</g>
+<g
+   id="g650"><rect
+   class="T"
+   x="27888"
+   y="22649"
+   width="337"
+   height="526"
+   id="rect646" />
+<text
+   class="S"
+   x="27961"
+   y="23161"
+   id="text648">B</text>
+
+</g>
+<g
+   id="g656"><rect
+   class="T"
+   x="27888"
+   y="21297"
+   width="337"
+   height="526"
+   id="rect652" />
+<text
+   class="S"
+   x="27961"
+   y="21809"
+   id="text654">B</text>
+
+</g>
+<g
+   id="g662"><rect
+   class="T"
+   x="27888"
+   y="28057"
+   width="337"
+   height="526"
+   id="rect658" />
+<text
+   class="S"
+   x="27961"
+   y="28568"
+   id="text660">B</text>
+
+</g>
+<g
+   id="g668"><rect
+   class="T"
+   x="27888"
+   y="26705"
+   width="337"
+   height="526"
+   id="rect664" />
+<text
+   class="S"
+   x="27961"
+   y="27217"
+   id="text666">B</text>
+
+</g>
+<g
+   id="g674"><rect
+   class="T"
+   x="33802"
+   y="31943"
+   width="337"
+   height="526"
+   id="rect670" />
+<text
+   class="S"
+   x="33875"
+   y="32455"
+   id="text672">B</text>
+
+</g>
+<g
+   id="g680"><rect
+   class="T"
+   x="27888"
+   y="17918"
+   width="337"
+   height="526"
+   id="rect676" />
+<text
+   class="S"
+   x="27961"
+   y="18430"
+   id="text678">B</text>
+
+</g>
+<g
+   id="g684"><circle
+   class="A1"
+   cx="46138"
+   cy="18181"
+   r="270"
+   id="circle682" />
+</g>
+<g
+   id="g690"><rect
+   class="T"
+   x="46639"
+   y="17904"
+   width="760"
+   height="633"
+   id="rect686" />
+<text
+   class="S"
+   x="46783"
+   y="18406"
+   id="text688">P2</text>
+
+</g>
+<g
+   id="g694"><circle
+   class="A1"
+   cx="48166"
+   cy="19533"
+   r="270"
+   id="circle692" />
+</g>
+<g
+   id="g700"><rect
+   class="T"
+   x="48707"
+   y="19188"
+   width="816"
+   height="633"
+   id="rect696" />
+<text
+   class="S"
+   x="48850"
+   y="19690"
+   id="text698">G1</text>
+
+</g>
+</g></svg>

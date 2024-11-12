@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="31.181px" height="31.181px" viewBox="0 0 31.181 31.181" enable-background="new 0 0 31.181 31.181" xml:space="preserve">
+<g id="border">
+</g>
+<g id="Layer_1">
+	<rect x="2.519" y="1.645" fill="none" width="28.347" height="28.348"/>
+	<g>
+		<g>
+			<path d="M14.142,15.804c0,4.736,1.107,7.567,2.961,7.567c1.782,0,11.45-1.397,11.45-7.567c0-6.014-9.137-7.246-11.579-7.246
+				C15.126,8.559,14.142,11.071,14.142,15.804z M15.785,15.804c0-4.194,0.808-5.605,1.189-5.605c1.635,0,9.94,0.969,9.94,5.605
+				c0,4.751-8.583,5.926-9.812,5.926C16.814,21.73,15.785,20.313,15.785,15.804z"/>
+		</g>
+	</g>
+	<g>
+		<circle fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" cx="4.052" cy="10.911" r="1.29"/>
+		<circle fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" cx="7.802" cy="10.911" r="1.548"/>
+		<circle fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" cx="11.928" cy="10.994" r="2.167"/>
+	</g>
+	<g>
+		<circle fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" cx="3.417" cy="15.872" r="1.291"/>
+		<circle fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" cx="7.166" cy="15.872" r="1.549"/>
+		<path fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" d="M11.29,18.124c1.193,0,2.164-0.971,2.164-2.169
+			c0-1.198-0.97-2.168-2.164-2.168c-1.198,0-2.168,0.97-2.168,2.168C9.122,17.153,10.092,18.124,11.29,18.124z"/>
+	</g>
+	<g>
+		<circle fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" cx="4.032" cy="21.088" r="1.291"/>
+		<circle fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" cx="7.778" cy="21.088" r="1.549"/>
+		<path fill="#010101" stroke="#FFFFFF" stroke-width="1.0459" d="M11.9,23.341c1.193,0,2.162-0.972,2.162-2.169
+			c0-1.199-0.969-2.169-2.162-2.169c-1.198,0-2.167,0.97-2.167,2.169C9.733,22.369,10.702,23.341,11.9,23.341z"/>
+	</g>
+</g>
+</svg>
